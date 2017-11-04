@@ -1,0 +1,3 @@
+kolomiets_my:
+    resource: "@KolomietsMyBundle/Resources/config/routing.yml"
+    prefix:   /
