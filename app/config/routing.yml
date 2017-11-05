@@ -1,3 +1,7 @@
 kolomiets_my:
     resource: "@KolomietsMyBundle/Resources/config/routing.yml"
     prefix:   /
+
+kolomiets_my_prefix:
+    resource: "@KolomietsMyBundle/Resources/config/prefixRouting.yml"
+    prefix:   /new

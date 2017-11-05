@@ -1,0 +1,7 @@
+kolomiets_my_prefix:
+    path:     /prefix
+    defaults: { _controller: KolomietsMyBundle:New:some }
+
+kolomiets_my_redirect:
+    path:     /redirect
+    defaults: { _controller: KolomietsMyBundle:New:redirect }
